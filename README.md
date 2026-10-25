@@ -1,40 +1,60 @@
-# DriveLux — Luxury Car Rental Website
+# 🚗 DriveLux — Premium Car Rental Website
 
-DriveLux is a frontend website concept for a luxury car rental service. It showcases a modern interface designed to help visitors explore vehicles and learn about rental services.
+A modern, luxury-inspired car rental website built with HTML5, CSS3, and Bootstrap. DriveLux features an elegant dark theme, vehicle showcases, and dedicated pages for exploring rental information.
 
-## Features
+## 🌐 Live Demo
 
-- Modern luxury-inspired design
-- Vehicle showcase and rental information
-- Responsive layout (depending on screen size and implementation)
-- Navigation between website sections or pages
-- Built with HTML, CSS, and Bootstrap
+**[Visit DriveLux Website](https://ravisuthar1311.github.io/drivelux-car-rental-/)**
 
-## Technologies Used
+## ✨ Features
 
-- HTML5
-- CSS3
-- Bootstrap
+- Premium dark-themed design with orange accents
+- Responsive website layout
+- Multi-page navigation
+- Dedicated car showcase page
+- About and contact pages
+- Booking information page
+- Custom styling with CSS and Bootstrap
 
-## Live Demo
+## 🛠️ Technologies Used
 
-Add your GitHub Pages URL here after deployment.
+- **HTML5** — website structure
+- **CSS3** — design and styling
+- **Bootstrap** — responsive layout and styling utilities
+- **Git & GitHub** — version control and source code hosting
+- **GitHub Pages** — website deployment
 
-## Run Locally
+## 📂 Project Structure
 
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+```text
+DriveLux/
+├── index.html
+├── cars.html
+├── about.html
+├── contact.html
+├── booking.html
+├── style.css
+├── Bootstrap/
+└── img/
+```
 
-## Project Purpose
+## 💻 Run Locally
 
-This project was created for frontend development practice to improve skills in page structure, styling, responsive layouts, and Bootstrap components.
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
 
-## Author
+## 🎯 Project Purpose
 
-Ravi Suthar
+DriveLux is a frontend portfolio project created to practice multi-page website development, responsive layouts, styling, navigation, and deployment using GitHub Pages.
 
-GitHub: https://github.com/YOUR-USERNAME
+## 👨‍💻 Developer
+
+**Ravi Suthar**
+
+- GitHub: [@ravisuthar1311](https://github.com/ravisuthar1311)
+- Live Website: [DriveLux](https://ravisuthar1311.github.io/drivelux-car-rental-/)
 
 ---
 
-*Note: Features and responsiveness should be verified against the actual implementation before publishing this README.*
+*This project is a frontend demonstration for learning and portfolio purposes. It does not represent a live car rental business.*
